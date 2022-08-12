@@ -32,6 +32,9 @@ public class Tarea1 {
         Dtabase lb = new Dtabase();
 
         boolean centinelita = true;
+        
+        System.out.println("PROBANDOOOOOOOOOOOO");
+        
         while (centinelita == true) {
             System.out.println("");
 
